@@ -5,7 +5,7 @@
 			"name": "client",
 			"image": "rk90229/multi-client",
 			"hostname": "client",
-			"essesntial": false,
+			"essential": false,
 			"memory": 128
 		},
 		{
